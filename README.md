@@ -68,5 +68,3 @@ Employee motivation is influenced by multiple factors such as:
 Organizations should adopt a **holistic strategy** to improve employee motivation rather than focusing only on the work environment.
 
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
