@@ -1,4 +1,4 @@
-# 🚀 Does a Positive Work Environment improve Developer Motivation?
+# 👩‍💻Does a Positive Work Environment improve Developer Motivation?
 
 This project was conducted as part of the **Theory and Practices in Statistical Modelling (TPSM)** module at SLIIT under the **Data Science specialization**.
 
